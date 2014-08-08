@@ -9,7 +9,7 @@ tags:
 
 ## [Start the Poem](http://neatline.dclure.org/neatline/show/polyphemus)
 
-[![](big-e.jpg)](http://neatline.dclure.org/neatline/show/polyphemus)
+[![](images/web/big-e.jpg)](http://neatline.dclure.org/neatline/show/polyphemus)
 
 I've had a lot of fun recently thinking about really weird, experimental ways to represent text documents. This grows out of a number of other projects that I've had the good luck to work on in recent years, many of which have turned on the question of how to take some kind of static chunk of text and find a useful and appealing way to put it on a computer screen. I wonder if this is one of those very low level, abstract problems that lots of different types of projects eventually resolve into, if you follow them far enough. Neatline, for example, started  out as just a mapping project, but then we realized that we almost always wanted to _say_ something about the maps we were making, and started thinking about ways to connect them with text documents. It's a "systems level" problem that cuts across lots of different domains.
 
@@ -21,7 +21,7 @@ The answers tend to be impractical, by definition, and they often seem most prom
 
 The idea was this - take the words in a poem, and physically place them inside the letter glyphs of the poem's title:
 
-[![](poly.jpg)](http://neatline.dclure.org/neatline/show/polyphemus#records/1438)
+[![](images/web/poly.jpg)](http://neatline.dclure.org/neatline/show/polyphemus#records/1438)
 
 Once all the words were in place, I realized that I wanted some way to "traverse" the poem, to slide through it, to smoothly read the entire thing without having to manually pan the display. This is ironic - really, what I wanted was to be able to read it more normally, in a sense, which gets back to the question of just how much innovation is really desirable at the level of the basic reading mechanic. But, I decided to stick with it, because I liked something about the way the new layout of the poem jibed with the content. Or, really, the genre - dramatic monologues are always trying to characterize or define the speaker, to _be_ the speaker, in a sense. Here, I realized, this gets encoded into the dimensional layout of the text - the poem is inscribed inside the name of the speaker, it literally conforms to the shape of the word that signifies the person being described.
 
