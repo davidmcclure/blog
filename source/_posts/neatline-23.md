@@ -4,7 +4,7 @@ tags:
   - neatline
 ---
 
-Today we're happy to announce [Neatline 2.3](http://omeka.org/add-ons/plugins/neatline)! This release includes a couple of nifty new features and, under the hood, a pretty big stack of bug fixes, performance tweaks, and improvements to the development workflow. The coolest new feature in 2.3 is a simple little addition that we've gotten a number of requests for in the last few months - the ability to "hard link" to individual records inside of an exhibit. In the new version, when you select a record in an exhibit, a little fragment gets tacked on to the end of the URL that points back to that record. For example, if the record has an ID of `16`, the URL will change to something like:
+Today we're happy to announce [Neatline 2.3](http://omeka.org/add-ons/plugins/neatline)! This release includes a couple of nifty new features and, under the hood, a pretty big stack of bug fixes, performance tweaks, and improvements to the development workflow. The coolest new feature in 2.3 is a simple addition that we've gotten a number of requests for in the last few months - the ability to "hard link" to individual records inside of an exhibit. In the new version, when you select a record in an exhibit, a little fragment gets tacked on to the end of the URL that points back to that record. For example, if the record has an ID of `16`, the URL will change to something like:
 
 `www.omeka-site.org/neatline/show/exhibit<strong>#records/16`
 
